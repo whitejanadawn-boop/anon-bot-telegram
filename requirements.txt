@@ -1,0 +1,1 @@
+pm2 start telegram_bot.py --interpreter python
